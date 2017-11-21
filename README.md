@@ -34,3 +34,12 @@ For the group project I was working on a random map generator. I made one using 
 
 ## Week Four
 
+This week we turned our square into a cube following Brian’s tutorials
+
+In 220 we had a worksheet on working with data, which I managed to complete and send to Al but it got corrupted when put onto the online version of Excel.
+
+Also, this week managed to get my hands on the HoloLens which was a lot of fun, I managed to set it up so that it streamed to the computer in the VR room and gave the log in details to Moon.
+
+Had a group pitch for the game which I didn’t get to contribute much because I was using my time to work on the prototypes, our team managed to pitch it well but will try to offer more help with the pitch next time.
+
+Gathering data through questionnaires and interviews has proven to be hard, I managed to balance the male to females with the interviews at least via the help of online friends.
