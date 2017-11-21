@@ -23,3 +23,14 @@ As for the group project we have begun to prototype games, we are using unreal a
 
 
 ## Week Three
+
+This week in graphics and simulation we were using fragment and vertices shaders. I added some code to mine to make it change colour over time, this worked fine in the classroom but when I took it home It had a weird graphical glitch. I asked Brian about it and found out the cause but left it in anyway because it looked good.
+
+For 220 we were looking at questionnaires and interviews, I feel like conducting these will be hard since 20 people is the recommended amount for the questionnaire and it is hard to get a good ratio of males to females. 
+
+For 230 we were having more dialogues on the main ethical and professionalism topics. I contributed a couple of times during these dialogues but still not as much as I wish to do. It feels like it is the same people talking each week.
+
+For the group project I was working on a random map generator. I made one using PyGame that created a grid based map but after asking the group they would prefer one that allowed for all shapes of rooms. I remade the generator and managed to get it working.
+
+## Week Four
+
