@@ -43,3 +43,7 @@ Also, this week managed to get my hands on the HoloLens which was a lot of fun, 
 Had a group pitch for the game which I didn’t get to contribute much because I was using my time to work on the prototypes, our team managed to pitch it well but will try to offer more help with the pitch next time.
 
 Gathering data through questionnaires and interviews has proven to be hard, I managed to balance the male to females with the interviews at least via the help of online friends.
+
+## Week Five
+
+In 210 we were implementing Modelling and texturing into our projects, I could not get this working throughout the session and spent a long time trying to fix it after. Managed to find the problem eventually and it began to work.
