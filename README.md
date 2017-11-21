@@ -13,4 +13,13 @@ Lastly my group for the group project had to pitch our worlds, I went a little a
 
 ## Week Two
 
+This week during graphics and simulation we programmed a triangle, the amount of set up to code this triangle seemed a bit excessive, but I expect that this code will be used for later work as well. Once again, I felt like I wasn’t writing any of code myself this session but rather following Brian’s tutorial word for word.
 
+For interfaces and Interaction, we had a look at the HoloLens. I am very interested in trying this out myself and seeing what it is capable of, may switch from doing a VR game to doing an AR one using this depending on how it works. We also looked at testing during this session which I have had experience in before.
+
+For 230 we researched programming disasters, how little mistakes and lack of communication could cause rockets to explode. We also had a dialogue about dialogues. The dialogue approach seems interesting and I can see why it is used but I am finding it hard to contribute anything worthwhile to the conversation. 
+
+As for the group project we have begun to prototype games, we are using unreal as the game engine, but I feel like the other members of the group do not know how long it can take to get stuff working in unreal. For example, I was asked to prototype a turn based strategy game in an hour. After telling them that it would probably take me my whole weekend to achieve this I offered the suggestion that it should be prototyped as a board game which they agreed with. I wish to improve the speeds in which I can prototype games.
+
+
+## Week Three
