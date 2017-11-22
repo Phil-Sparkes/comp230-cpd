@@ -61,6 +61,14 @@ A problem I found this week was working in the studio, the studio was too loud a
 
 ## Week Seven
 
+This week for graphics and simulation we had a peer review session, I managed to get the model loading and textured as well as a camera. The camera didn’t work fully though with only being to turn around.
+
+For 210 we were studying how eyes work and how this information could be used for virtual and augmented reality. I found this lecture interesting and would like to try some eye tracking technology.
+
+For 230 we were presenting out current findings of our research. This provided some useful feedback and sources that could be used for my essay.
+
+For the group project we had some build troubles with the project not building due to people moving files around while others are working on the project. Managed to fix this after a strenuous hour and got a build working.
+
 
 ## Week Eight
 
