@@ -40,13 +40,16 @@ In 220 we had a worksheet on working with data, which I managed to complete and 
 
 Also, this week managed to get my hands on the HoloLens which was a lot of fun, I managed to set it up so that it streamed to the computer in the VR room and gave the log in details to Moon.
 
-Had a group pitch for the game which I didn’t get to contribute much because I was using my time to work on the prototypes, our team managed to pitch it well but will try to offer more help with the pitch next time.
-
 Gathering data through questionnaires and interviews has proven to be hard, I managed to balance the male to females with the interviews at least via the help of online friends.
 
 ## Week Five
 
 In 210 we were implementing Modelling and texturing into our projects, I could not get this working throughout the session and spent a long time trying to fix it after. Managed to find the problem eventually and it began to work.
+
+For 220 this week I was focusing on making the website – Putting the results in graphs and tables.
+
+For 230 our normal session was replaced with a group pitch for the game which I didn’t get to contribute to much, because I was using my time to work on the prototypes, our team managed to pitch it well but will try to offer more help with the pitch next time.
+
 
 ## Week Six
 
