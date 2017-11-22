@@ -47,3 +47,11 @@ Gathering data through questionnaires and interviews has proven to be hard, I ma
 ## Week Five
 
 In 210 we were implementing Modelling and texturing into our projects, I could not get this working throughout the session and spent a long time trying to fix it after. Managed to find the problem eventually and it began to work.
+
+## Week Six
+
+## Week Seven
+
+## Week Eight
+
+## Week Nine
