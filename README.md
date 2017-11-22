@@ -53,7 +53,14 @@ For 230 our normal session was replaced with a group pitch for the game which I 
 
 ## Week Six
 
+Week six was a studio practice week meaning we didn’t have any lectures but were required to come in and work. This week I worked a lot with the group on the group project.
+
+I was also working on the 210 Research Journal and the 230 Essay, both of these are in for the same week so I tried to get as much progress on them as I could during this week.
+
+A problem I found this week was working in the studio, the studio was too loud and distracting. I am going to get some noise cancelling headphones to try and counteract this.
+
 ## Week Seven
+
 
 ## Week Eight
 
