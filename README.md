@@ -72,4 +72,11 @@ For the group project we had some build troubles with the project not building d
 
 ## Week Eight
 
+This week we had three assignments in so the work load was high. For 210 we were trying to implement animation into our programs. Since Brian couldn’t get this working in the live coding there wasn’t much chance for us.
+
+For 230 we had a peer review for our essay with the essay being in on the same day as the review, the feedback I got for this was useful but didn’t have the chance to change my essay since TeXworks was not working in the studio.
+
+This week I also signed up for a unity exam which I forgot that I had, the day before I managed to do ten minutes of revision and then did the test. Got exactly 70% which was the required pass mark.
+
+
 ## Week Nine
