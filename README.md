@@ -76,7 +76,7 @@ This week we had three assignments in so the work load was high. For 210 we were
 
 For 230 we had a peer review for our essay with the essay being in on the same day as the review, the feedback I got for this was useful but didn’t have the chance to change my essay since TeXworks was not working in the studio.
 
-This week I also signed up for a unity exam which I forgot that I had, the day before I managed to do ten minutes of revision and then did the test. Got exactly 70% which was the required pass mark.
+This week I also signed up for a unity exam which I forgot that I had, the day before I managed to do ten minutes of revision before the test. Got exactly 70% which was the required pass mark. This was cutting it a bit too close so I should make more time for revision next time.
 
 
 ## Week Nine
