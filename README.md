@@ -104,3 +104,8 @@ For the VR project after a considerable amount of effort I managed to fix the mo
 For the game project we managed to start play testing finally, this gave some valuable feedback about the game such as weapon balancing, I provided the designers with a way of accessing all the weapon properties without having to delve into the code. This in turn gives them the power to act on the feedback and balance the game.
 
 ## Week Twelve
+
+This week I didn’t work on my graphics project since I had two other deadlines in. The first of which being the game project. For this we had a team meeting and a list was created of all the features we wanted finished before the deadline. I completed all the tasks from the list and refined some of the code to keep it clean. We also had to create a video showing off our game, the other programmer and I agreed to meet at my house to make the videos at the same time. After a lot of fiddling with the editing software we managed to get the videos done. I submitted mine but was then told the audio level was too low, I resubmitted it with a higher audio level.
+
+The other assignment in for this week was the VR project. I was pleasantly surprised with how this turned out, with the top down shooter mechanics in a VR game. The idea of the project was to see if these mechanics would work in VR and I believe they do work.
+
