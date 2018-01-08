@@ -89,6 +89,12 @@ I also took part in volunteering this week, teaching teachers how to program wit
 
 ## Week Ten
 
+In 210 this week I had trouble getting the bullet physics to work in the session. This caused me to fall behind this week and had to work extra to catch up. I managed to catch up and now have physics in my project.
+
+For the VR project I have managed to get some basic functionality, but the player movement does not work as intended. I am exploring ways of getting this to work.
+
+The game project this week I was continuing from my progress last week. My team requested a spawn room and a boss room, using the map generator I managed to create the rooms and implement them into unreal. Also managed to fix the paths between rooms so that there are no longer holes in the wall. A problem with the game project is that I am having to program the bulk of the game when I want to program more specialist parts. I am trying to program specialist scripts but more of my time is invested into the main functionality programming for the game.
+
 ## Week Eleven
 
 ## Week Twelve
