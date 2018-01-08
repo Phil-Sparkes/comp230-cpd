@@ -97,4 +97,10 @@ The game project this week I was continuing from my progress last week. My team 
 
 ## Week Eleven
 
+For graphics this week we were looking over our code and refactoring it, this seemed easy enough to understand but proved my knowledge on how pointers and referencing works in C++ is still not adequate. I plan on looking further into how they function.
+
+For the VR project after a considerable amount of effort I managed to fix the movement issues and decided that I would like some tracker functionality in the game. I have created a special weapon for the game that will only activates with a fast movement from the VR tracker and now working on getting the tracking side working.
+
+For the game project we managed to start play testing finally, this gave some valuable feedback about the game such as weapon balancing, I provided the designers with a way of accessing all the weapon properties without having to delve into the code. This in turn gives them the power to act on the feedback and balance the game.
+
 ## Week Twelve
