@@ -1,3 +1,18 @@
+# Summary
+My career goal is to work as a computing professional, I would like to work in the computing industry doing something programming related.
+
+This course is helping me progress towards those goals by teaching me how to program as well as workplace practices. Resources such as GitHub and slack are used widely in the computing industry. I am learning how to use these tools effectively. Agile practices are also widely used so working in groups using agile methods will prepare me for my career goal.
+
+Five challenges I have faced are as follows.
+* Pacing in presentations
+* Prototyping fast with team
+* Collecting quantitative and qualitative data
+* C++ pointers and references
+* Working in studio
+
+I plan to combat these challenges using SMART targets.
+
+
 # Weekly Reports
 
 ## Week One
