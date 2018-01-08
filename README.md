@@ -80,3 +80,15 @@ This week I also signed up for a unity exam which I forgot that I had, the day b
 
 
 ## Week Nine
+
+For 220 I was working on my VR project, I am finding it much harder than I thought it would be. Using the template VR project, I will see if I can duplicate the functionality for my own project. I plan on focusing more of my time towards the VR project now to make sure I can get something working quickly so I have enough time to work on the features before the deadline.
+
+For the game project I finally implemented the map generator I had made during the prototyping. A few tweaks were needed to make it work with the new map but managed to get it working.
+
+I also took part in volunteering this week, teaching teachers how to program with software Cornwall. Last year I also took part and there were 2-3 student volunteers but this year there was 6 of us. This caused a “too many cooks in the kitchen” problem and thus couldn’t provide much help.
+
+## Week Ten
+
+## Week Eleven
+
+## Week Twelve
