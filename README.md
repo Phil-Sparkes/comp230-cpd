@@ -124,3 +124,54 @@ This week I didn’t work on my graphics project since I had two other deadlines
 
 The other assignment in for this week was the VR project. I was pleasantly surprised with how this turned out, with the top down shooter mechanics in a VR game. The idea of the project was to see if these mechanics would work in VR and I believe they do work.
 
+
+# Term 2
+
+## Week 1
+
+This week we had our introductions to our new modules, I am looking forward to the AI module as this is something I have an interest in. The networking module is quite technical with talking about socket programming this week. It seems there will be a lot of writing this study block which I may struggle with. A 14-page business report feels a bit extensive for the marks that it is worth. A problem I found this week was regaining motivation after the holidays, in the team project we jumped right back in, but the work output is not as high as it could be.
+
+## Week 2
+
+For networking this week, we were creating a SUD (Single user dungeon). I found this simple enough to do but have a feeling that this module will soon become very challenging with the networking side. For AI we looked at the Nash equilibrium, I found this interesting and would like to incorporate the techniques into some of my programs. The main problem I experience this week was time management with the group project. We have settled for three full days in the studio (Tuesday, Wednesday, Thursday), but I find myself doing too much group project work compared to other work.
+
+## Week 3
+
+In AI lecture this week we were looking into other methods of incorporating AI focusing on behaviour trees and finite state machines, in this session I managed to create a basic behaviour tree using unreal which I plan to now incorporate into the game. For networking we were working on our SUDs and turning them into MUDs. so far, I have managed to get the SUD working from a single remote client. The main problem I had this week carries on from the last week with spending too much time on the group project, but I feel like the group project is something I want to be heavily invested in.
+
+## Week 4
+
+For AI this week the topic was Minmax algorithms. I can see how these could be useful in many applications but my current project I don’t see how I would be able to incorporate this efficiently. My main problem this week was not being able to get the networking working using threading, this proved much more difficult than it first appeared. I found that most of my peers were also struggling with this and we arranged a session with Gareth to provide us with some support in the subject. I also took a step back from the game project this week to try and focus on other work.
+
+## Week 5 
+
+This week was useful for our business assignment as we had a presentation that went through all the topics that we are required to write about, I feel the amount of work required for the assignment is a bit excessive especially with all the other work we also must do. We also have a business presentation coming up in which I am not sure what I need to present. In AI we studied the Monte Carlow tree search, this is another technique that I have found interesting and would like to test in a program.
+
+## Week 6 
+
+This week was studio practice week, during this week I mostly worked on my group project game with the team, we felt like if we managed to get a lot of the work done this week then we will have more free time for other assignments later. A problem I found was communicating with my team and letting them know that I wouldn’t be able to dedicate much time on this project anymore due to other work.
+
+## Week 7
+
+This week I was struggling with illness, I missed both 250 and 240 lectures. I missed the business presentation, I messaged Gareth about what I should do for this. He requested that I make a video of me doing the presentation and send it his way which I managed to do. Due to missing sessions this week I am finding it hard to understand the presentation material and catch up on the work.
+
+## Week 8 
+
+This week in AI we studied evolutionary algorithms which was also my topic for the research journal. I am very interested in this topic and have wrote about it in a paper during first year. I feel confident that I am able to use evolutionary algorithms for my programs. Last year I made a genetic algorithm to play the game QWOP, after this session I would like to go back to this algorithm and make some changes to see if I can improve my previous work. The main problem I found this week was knowing what to write about for my business report. Although lots of material was provided I still was not sure what I should be writing about in each section.
+
+## Week 9
+
+After being out of the country and away from a computer for my whole Easter break I came back to a fairy large amount of work that needed to be done. I missed a few lectures and some dedicated studio practice time with my team this week. I feel this was because I got overwhelmed with the amount of work that I had to do so I just shut down and did none of it. Over the weekend I did manage to do a sizable chunk though to make sure I did not fall too far behind.
+
+## Week 10
+
+This week I have been continuing with trying to catch up with work. I have found it quite stressful and having to suspend my social activities for a while to focus on the work. One problem I have noticed with my code on the group game is the lack of maintainability. Lots of my old code was hard to understand and other bits were redundant. We have had a bad experience deleting files from unreal as it often breaks the build but next year I plan on having a better file system and less redundant files.
+
+## Week 11
+
+This week was very busy with lots of assignment deadlines coming up, during AI lecture we had some guest lecturers from the MetaMakers AI. I feel like this was a bad time to have this though as I was so busy with work that I couldn’t give the guest lecturers the attention they deserved during their talks. For the group project I had to stay in late a couple days to get the project up to a standard in which it was ready to submit. The day we decided to submit I had to spend a very busy hour fixing the bugs but we managed to get it all done and hand in the game. For the game submission I also submitted a poster which was not due till the week after. This is good though because now I don’t have to worry about doing it next week alongside all my other work.
+
+## Week 12
+
+This week was more hand-ins with the main focus being on the AI bot. For this assignment I made a bot that would get to the top of the leader board but I didn’t try many different AI techniques. The reasoning behind this is because for this sort of game I thought the more heuristic based AI would perform the best. Doing this though I missed the opportunity to experiment more with different types of AI. This week I was also working on networking in which I have been struggling with at one point getting locked out of my server and having to ask for assistance. I have managed to make some progress after getting some help from peers.
+
