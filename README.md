@@ -127,6 +127,21 @@ The other assignment in for this week was the VR project. I was pleasantly surpr
 
 # Term 2
 
+# Summary
+My career goal is to work as a computing professional, I would like to work in the computing industry doing programming related work.
+
+This course is helping provide the insight to the programming and workplace practices. Resources such as GitHub and slack are used widely in the computing industry. I am learning how to use these tools effectively. Since I have started this course I have made large step towards this end goal. The main problem I feel like I will face will be switching from the university environment to a workplace environment. To understand this better I would like to get some experience working in the industry.
+
+Five challenges I have faced are as follows
+*	Managing stress levels
+*	Maintainability in unreal code
+*	Prioritising work 
+*	Communication with team 
+*	Applying more complex AI to game
+
+I plan to combat these challenges using SMART targets.
+
+
 ## Week 1
 
 This week we had our introductions to our new modules, I am looking forward to the AI module as this is something I have an interest in. The networking module is quite technical with talking about socket programming this week. It seems there will be a lot of writing this study block which I may struggle with. A 14-page business report feels a bit extensive for the marks that it is worth. A problem I found this week was regaining motivation after the holidays, in the team project we jumped right back in, but the work output is not as high as it could be.
